@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+waitress
+flasgger
+pymysql
+Flask-SQLAlchemy
+numpy
+pandas
+scikit-learn
+nltk
+PyPDF2
